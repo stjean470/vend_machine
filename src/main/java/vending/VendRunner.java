@@ -23,8 +23,8 @@ public class VendRunner {
 
         vm.displayProducts();
         System.out.println(vm.dispenseProduct("ugh"));
-        System.out.println(vm.dispenseProduct("chips1"));
-        System.out.println(vm.dispenseProduct("beverage32"));
+        //System.out.println(vm.dispenseProduct("chips1"));
+        //System.out.println(vm.dispenseProduct("beverage32"));
 
     }
 }

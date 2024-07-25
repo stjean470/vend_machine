@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="858b3385-4dcd-49ea-8dc4-3f946486e29c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vending/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vending/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vending/Slot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vending/Snack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vending/VendRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vending/VendingMachine.java" afterDir="false" />
+    <list default="true" id="858b3385-4dcd-49ea-8dc4-3f946486e29c" name="Changes" comment="Vending Machine Application Demo">
+      <change beforePath="$PROJECT_DIR$/src/main/java/vending/VendRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vending/VendRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vending/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vending/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "stjean470"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stjean470/vend_machine.git",
+    "accountId": "531435e5-010a-4627-b63e-59a62f2ffa6d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -58,6 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721920726924</updated>
     </task>
+    <task id="LOCAL-00001" summary="Vending Machine Application Demo">
+      <option name="closed" value="true" />
+      <created>1721932390115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721932390115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vending Machine Application Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vending Machine Application Demo" />
   </component>
 </project>

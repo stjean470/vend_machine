@@ -19,13 +19,10 @@ public class VendingMachine {
                 Slot<? extends Product> s = slots.get(code);
                 s.setQuantity(s.getQuantity() - 1);
                 return s.getProduct();
-            }else {
-                System.out.println("Product not available");
-                return null;
             }
         }
+        System.out.println("Product not available");
         return null;
-        //if (slots.containsKey(code) && slots.get())
     }
 
     public void displayProducts() {
